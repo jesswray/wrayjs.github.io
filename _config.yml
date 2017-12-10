@@ -6,7 +6,7 @@
 title: the philly code experiment
 email: jessica.wray@gmail.com
 description:
-url: https://jesswray.com # the base hostname & protocol for your site
+url: http://jesswray.com # the base hostname & protocol for your site
 keywords: ["Programming", "Javascript", "Ruby", "React"]
 
 #

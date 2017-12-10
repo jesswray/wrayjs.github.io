@@ -67,4 +67,4 @@ I also got a new motorcycle, because I didn't want to backport old data.  Just k
 
 With the fetch and new sorting, [vroombot](vroombot) is up!  Populated with fake data at the moment because it's snowing :(
 
-[vroombot]: https://jesswray.com/vroombot
+[vroombot]: http://jesswray.com/vroombot
