@@ -3,18 +3,18 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email: zourenyuan@gmail.com
-description: A simple and awesome blog theme powered by jekyll.
-url: https://renyuanz.github.io/leonids # the base hostname & protocol for your site
-keywords: ["Programming", "PHP", "Ruby"]
+title: the philly code experiment
+email: jessica.wray@gmail.com
+description:
+url: https://jesswray.com # the base hostname & protocol for your site
+keywords: ["Programming", "Javascript", "Ruby", "React"]
 
 #
 ###################################
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          America/New York
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -33,24 +33,24 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
-  avatar: leonids-logo.png
-  job: "PHP & Ruby Developer"
-  bio: "A backend developer who loves design awesome things. Working for RendezvousCheznous atm in Marseille, France."
-  email: zourenyuan@gmail.com
-  disqus-shortname: renyuanzblog
-  twitter: renyuan814 #username
+  name: Jessica Wray
+  avatar: ic_build.png
+  job: "Ruby & React Developer"
+  bio: "full stack web developer in Philadelphia"
+  email: jessica.wray@gmail.com
+  disqus-shortname:
+  twitter: jessicaswray #username
   facebook: #username
   google:
     plus: #username
-    analytics: UA-62251910-2
+    analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: renyuanz #username
+  github: wrayjs #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: renyuan-zou-69b7038a #username
+  linkedin: wrayjessica #username
   xing: #username
   instagram: #username
   lastfm: #username
