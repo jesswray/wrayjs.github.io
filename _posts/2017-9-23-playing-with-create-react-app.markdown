@@ -3,7 +3,9 @@ layout: post
 title:  "playing with create-react-app and github pages"
 ---
 
-I made a mileage tracking widget with `create-react-app` for my bike.  `create-react-app` is amazing -- it took me more time to read [this tutorial][deploying-react] than to get it deployed to Github Pages.
+I made a mileage tracking widget with `create-react-app` for my bike.  
+
+`create-react-app` is amazing -- it took me more time to read [this tutorial][deploying-react] than to get it deployed to Github Pages.
 
 Previously I'd been keeping photos of my odometer and gas receipts on my phone.  For the purpose of this exercise I transcribed them into a file, like so:
 

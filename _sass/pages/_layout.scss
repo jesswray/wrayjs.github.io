@@ -32,7 +32,7 @@
     font-size: 1.75em;
     text-transform: lowercase;
   }
-  .author_job {
+  .author_job, .project_header {
     display: block;
     color: $secondary;
     font-size: 0.8em;
@@ -48,6 +48,9 @@
     text-align: right;
     margin: 0 auto;
     padding: 0 0px 80px;
+  }
+  .project_header {
+    margin-top: 10px;
   }
 }
 .social-links {
