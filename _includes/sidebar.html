@@ -12,7 +12,7 @@
   <span class="project_header">Projects</span>
   {% endif %}
   {% for item in site.data.projects %}
-    <a href="{{ item.url }}">{{ item.title }}</a>: {{ item.description }}
+    <div><a href="{{ item.url }}">{{ item.title }}</a>: {{ item.description }}</div>
   {% endfor %}
 
   {% include social-links.html %}
