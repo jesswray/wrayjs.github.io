@@ -5,7 +5,7 @@ title:  "pumpkin spice ipsum"
 
 ![pumpkin spice lorem ipsum]({{ "/img/pumpkin_ipsum_screenshot.png" | absolute_url }})
 
-New React project: [pumpkin spice lorem ipsum](http://jesswray.com/pumpkin-ipsum)!  Now all your filler text can be cozy. It was inspired by other funny ipsums I use: [Bacon Ipsum][bacon-ipsum], [Vegan Ipsum][vegan-ipsum], and [Hipster Ipsum][hipster-ipsum].
+New React project: [pumpkin spice lorem ipsum](2017-12-10-pumpkin-spice-ipsum.markdown)!  Now all your filler text can be cozy. It was inspired by other funny ipsums I use: [Bacon Ipsum][bacon-ipsum], [Vegan Ipsum][vegan-ipsum], and [Hipster Ipsum][hipster-ipsum].
 
 I built it this afternoon, which is exciting, because previously I thought when people "built things in an afternoon" they were lying.  Turns out repetition is key.  After deploying new React apps a few times, I am a veritable factory of widgets no one asked for.
 
